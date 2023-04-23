@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliezers135&show_icons=true&locale=en&layout=compact" alt="eliezers135" /></p>
 
+<!-- <h3 align="left">📊 Metricas do github</h3> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliezers135&show_icons=true&locale=en" alt="eliezers135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliezers135&" alt="eliezers135" /></p>
@@ -34,7 +35,6 @@
 <a href="https://fb.com/eliezer.dossantos2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eliezer.dossantos2004/" height="30" width="40" /></a>
 <a href="https://instagram.com/eli_s4ntsz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eli_s4ntsz/" height="30" width="40" /></a>
 </p>
-<h3 align="left">📊 Metricas do github</h3>
 
 
 <!--
