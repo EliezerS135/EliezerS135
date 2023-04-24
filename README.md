@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Eliezer</h1>
-<h3 align="center">Um analista de sistemas apaixonado em compartilhar conhecimento e aprender coisas novas!</h3>
+<h3 align="center">Um analista de sistemas apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
 
 
 - 🌱 Estou aprendendo atualmente **Django, Plotly, Pandas, Postgresql**
