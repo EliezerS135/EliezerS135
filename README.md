@@ -2,7 +2,7 @@
 <h3 align="center">Um analista de Segurança da Informação apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
 
 
-- 🌱 Estou aprendendo atualmente **NIST, SIEM, Azure, Criptografia**
+- 🌱 Estou aprendendo atualmente **NIST, SIEM, Azure, Criptografia, LINUX**
 
 - 👯 Eu procuro colaborar em **projetos de Cyber Security**
 
