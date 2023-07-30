@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Eliezer</h1>
-<h3 align="center">Um analista de sistemas apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
+<h3 align="center">Um analista de segurança da informação apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
 
 
-- 🌱 Estou aprendendo atualmente **Django, Plotly, Pandas, Postgresql**
+- 🌱 Estou aprendendo atualmente **NIST, SIEM, Azure, Criptografia**
 
-- 👯 Eu procuro colaborar em **projetos de analise e ciencia de dados**
+- 👯 Eu procuro colaborar em **projetos de Cyber Security**
 
-- 💬 Me pergunte sobre **Tecnologia, analise de dados, etc**
+- 💬 Me pergunte sobre **Tecnologia, Network Scurity, Cloud Security, etc**
 
 - 📫 Fale comigo em **eliezersantos2004@gmail.com**
 
