@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Eliezer</h1>
-<h3 align="center">Um analista de segurança da informação apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
+<h3 align="center">Um analista de Segurança da Informação apaixonado em compartilhar conhecimento e aprender novas tecnologias!</h3>
 
 
 - 🌱 Estou aprendendo atualmente **NIST, SIEM, Azure, Criptografia**
