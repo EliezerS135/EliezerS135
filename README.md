@@ -2,7 +2,7 @@
 <h3 align="center">Um desenvolvedor de sistemas migrando para Segurança da Informação, apaixonado em compartilhar conhecimento e superar novos desafios!</h3>
 
 
-- 🌱 Estou aprendendo atualmente **NIST, SIEM, Azure, Criptografia, LINUX**
+- 🌱 Estou aprendendo atualmente **SIEM, Splunk, Cloud, Criptografia, LINUX**
 
 - 👯 Eu procuro colaborar em **projetos de Cyber Security**
 
