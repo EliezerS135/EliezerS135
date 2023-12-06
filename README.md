@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Eliezer</h1>
-<h3 align="center">Um desenvolvedor de sistemas e entusiasta em Segurança da Informação, apaixonado em compartilhar conhecimento e superar novos desafios!</h3>
+<h3 align="center">Um Desenvolvedor de Software e entusiasta em Cyber Security, apaixonado em compartilhar conhecimento e superar novos desafios!</h3>
 
 
 - 🌱 Estou aprendendo atualmente **Java, Spring boot, Angular**
