@@ -2,7 +2,7 @@
 <h3 align="center">Um Desenvolvedor de Software e entusiasta em Cyber Security, apaixonado em compartilhar conhecimento e superar novos desafios!</h3>
 
 
-- 🌱 Estou aprendendo atualmente **Java, Spring boot, Angular**
+- 🌱 Estou aprendendo atualmente **Java, Spring boot, Python-Flask**
 
 - 👯 Eu procuro colaborar em **projetos de SpringBoot**
 
